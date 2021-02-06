@@ -13,6 +13,7 @@
 - [Jongie Oaquiera] (https://github.com/joaquiera)
 - Samantha Milliga
 - Kalp Vyas
+- [Joshua Retallick](https://github.com/joshuaretallick)
 - Siddhanth Verma
 - Patrick O'Mahony
 - Govind Saju
